@@ -1,11 +1,11 @@
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
-%define device halium-vidofnir
+%define device halium-algiz
 %define vendor volla
 
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Volla
-%define device_pretty Phone X23
+%define device_pretty Phone Quintus
 
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_vibrator_native 1
